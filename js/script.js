@@ -1,7 +1,7 @@
 function meuEscopo () {
 
-    const form = document.querySelector('.form');
-    const resultado = document.querySelector('.resultado');
+    const form = document.querySelector('.form'); //Seleciona o formulário
+    const resultado = document.querySelector('.resultado'); //Seleciona a DIV
 
     const pessoas = [];
 
